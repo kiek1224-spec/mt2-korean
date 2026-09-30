@@ -1,0 +1,9 @@
+# 롬·세이브는 올리지 않습니다
+*.nes
+*.fds
+*.unf
+*.mss
+*.sav
+*.srm
+*.state*
+*.zip
